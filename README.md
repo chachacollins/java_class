@@ -1,4 +1,4 @@
-[](Pasted image 20251119162437.png)
+![](./image1.png)
 [](Pasted image 20251119171025.png)
 [](Pasted image 20251119171034.png)
 [](Pasted image 20251119163704.png)
