@@ -1,15 +1,16 @@
-# INPUT CAPTURE
-![[Pasted image 20251119162437.png]]
-# OUTPUT
-![[Pasted image 20251119171025.png]]
-![[Pasted image 20251119171034.png]]![[Pasted image 20251119163704.png]]![[Pasted image 20251119163935.png]]![[Pasted image 20251119164039.png]]
-![[Pasted image 20251119164055.png]]
-![[Pasted image 20251119164127.png]]
-![[Pasted image 20251119164141.png]]
-![[Pasted image 20251119164152.png]]
-![[Pasted image 20251119164215.png]]
-![[Pasted image 20251119164249.png]]
-![[Pasted image 20251119164305.png]]
-![[Pasted image 20251119164314.png]]
-![[Pasted image 20251119164322.png]]
-![[Pasted image 20251119164333.png]]
+![](Pasted image 20251119162437.png)
+![](Pasted image 20251119171025.png)
+![](Pasted image 20251119171034.png)
+![](Pasted image 20251119163704.png)
+![](Pasted image 20251119163935.png)
+![](Pasted image 20251119164039.png)
+![](Pasted image 20251119164055.png)
+![](Pasted image 20251119164127.png)
+![](Pasted image 20251119164141.png)
+![](Pasted image 20251119164152.png)
+![](Pasted image 20251119164215.png)
+![](Pasted image 20251119164249.png)
+![](Pasted image 20251119164305.png)
+![](Pasted image 20251119164314.png)
+![](Pasted image 20251119164322.png)
+![](Pasted image 20251119164333.png)
